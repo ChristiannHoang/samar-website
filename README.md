@@ -1,2 +1,2 @@
 # samar-website
-The landing page uses HTML and CSS languages, as well as libraries such as Lightbox, Fancybox, Codyhouse, and Owl Carousel.
+The landing page uses HTML and CSS languages, as well as libraries such as Lightbox, Fancybox, Codyhouse, Animate.css, Wow, and Owl Carousel.
